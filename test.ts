@@ -1,4 +1,4 @@
-import { merge } from "../mergePRIMO/merge";
+import merge from "../mergePRIMO/merge";
 
 describe("merge", () => {
   it("should merge two sorted arrays", () => {
